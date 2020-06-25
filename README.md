@@ -10,4 +10,6 @@
 Есть два режима формирования: просто отображение заполненного doc-файла договора с открытием в Word, или сохранения заполненного doc-файла в справочник "Файлы" и затем открытие карточки файла в справочнике для дальнейшего открытия.
 Можно долго все объяснять, но проще показать как это работает:
 
-[![Watch the video](https://img.youtube.com/vi/ecAVtlTUArs/maxresdefault.jpg)](https://youtu.be/ecAVtlTUArs)
+[![Просмотр видео](https://img.youtube.com/vi/ecAVtlTUArs/maxresdefault.jpg)](https://youtu.be/ecAVtlTUArs)
+
+Сайт автора: https://softonit.ru/free/130-ut11word/
