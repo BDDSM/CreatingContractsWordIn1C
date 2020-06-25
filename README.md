@@ -12,5 +12,5 @@
 
 [![Просмотр видео](https://img.youtube.com/vi/ecAVtlTUArs/maxresdefault.jpg)](https://youtu.be/ecAVtlTUArs)
 
-Автор: Барилко Виталий
+Автор: Барилко Виталий.
 Сайт публикации: https://softonit.ru/free/130-ut11word/

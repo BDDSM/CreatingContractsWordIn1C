@@ -1,0 +1,6 @@
+1. Изменить обработку и подготовить релиз. Изменить в модуле объекта версию.
+2. Запустить unpack.bat
+3. Открыть build_release.bat и там тоже заменить версию.
+4. Запустить build_release.bat
+5. Сделать pull в github
+6. Открыть релизы и добавить туда новый релиз сформированный на шаге 4. https://github.com/Diversus23/CreatingContractsWordIn1C/releases/new
