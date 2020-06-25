@@ -1,2 +1,3 @@
 *.epf linguist-language=1C Enterprise
 src/* linguist-vendored
+*.epf linguist-generated
